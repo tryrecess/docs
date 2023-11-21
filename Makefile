@@ -5,4 +5,4 @@ all:
 	@if ! command -v mintlify &> /dev/null; then \
 		npm i -g mintlify; \
 	fi
-	@mintlify dev
+	@mintlify dev --port 4000
