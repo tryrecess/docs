@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Starter Kit",
+  "name": "Recess Docs",
   "logo": {
     "dark": "/logo/dark.svg",
     "light": "/logo/light.svg"
@@ -22,13 +22,25 @@
     }
   ],
   "topbarCtaButton": {
-    "name": "Dashboard",
+    "name": "Recess",
     "url": "https://dashboard.mintlify.com"
   },
   "tabs": [
     {
-      "name": "API Reference",
+      "name": "Recess API",
       "url": "api-reference"
+    },
+    {
+      "name": "Game World",
+      "url": "game-world"
+    },
+    {
+      "name": "Jippity",
+      "url": "jippity"
+    },
+    {
+      "name": "Partner Program",
+      "url": "partner-program"
     }
   ],
   "anchors": [
